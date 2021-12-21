@@ -8,6 +8,7 @@
     "Angular": "angular/#/",
     "JavaScript": "javascript/#/",
     "React": "react/#/",
+    "Blazor":  "blazor/",
     "ASP.NET Core": "aspnet-core/",
     "ASP.NET MVC": "aspnet-mvc/"
   },
